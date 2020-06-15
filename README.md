@@ -1,4 +1,4 @@
-# react-native-drag-resize
+# git@github.com:yudihindarko/react-native-drag-and-resize-without-connector
 
 React Native component for draggable and resizable manipulation.
 
@@ -18,19 +18,19 @@ React Native component for draggable and resizable manipulation.
 ### Installation
 
 ```bash
-$ npm i react-native-drag-resize --save
+$ npm i git@github.com:yudihindarko/react-native-drag-and-resize-without-connector --save
 ```
 
 ### Basic Usage
 
-- Install `react-native-drag-resize` package to project 
+- Install `git@github.com:yudihindarko/react-native-drag-and-resize-without-connector` package to project 
 
 - Import module to file
 
 ```jsx
 import {
   DragResizeBlock,
-} from 'react-native-drag-resize';
+} from 'git@github.com:yudihindarko/react-native-drag-and-resize-without-connector';
 ```
 
 - Then, use component like this:
@@ -103,7 +103,7 @@ If your `npm` not support symlinks, then call this code from repository root dir
 
 ```bash
 $ cp -alf $PWD example/node_modules/
-$ rm -R example/node_modules/react-native-drag-resize/example
+$ rm -R example/node_modules/git@github.com:yudihindarko/react-native-drag-and-resize-without-connector/example
 $ cd example
 $ react-native run-android
 $ react-native run-ios
